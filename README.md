@@ -1,7 +1,7 @@
 ## About Me 👨‍🎓
 
-My name is Sergey, I am currently a student at MIPT.
-I am interested in system programming and write projects in the C language.
+Hey! My name is Sergey, I am currently a student at MIPT.
+I am interested in system programming and write pet projects.
 
 ## My Stack 💻
 
